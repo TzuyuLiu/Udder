@@ -32,7 +32,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="hands" translatesAutoresizingMaskIntoConstraints="NO" id="VBA-In-Ee7">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="face" translatesAutoresizingMaskIntoConstraints="NO" id="VBA-In-Ee7">
                                 <rect key="frame" x="49" y="480" width="307" height="229"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -47,6 +47,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="hands" width="600" height="450"/>
+        <image name="face" width="225" height="225"/>
     </resources>
 </document>
